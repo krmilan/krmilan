@@ -2,7 +2,7 @@
 
 ### Full Stack Developer • AI Engineering Learner
 
-<p align="center">
+<p>
 Building scalable software, backend systems, and AI-powered applications.
 </p>
 
@@ -20,28 +20,21 @@ Building scalable software, backend systems, and AI-powered applications.
 
 ## 🛠 Tech Stack
 
-**Languages:** Java • Python • JavaScript • SQL • C++ • PHP  
-
-**Frontend:** HTML • CSS • React.js  
-
-**Backend:** Node.js • Express.js  
-
-**Databases:** PostgreSQL • MongoDB • MySQL  
-
-**Tools:** Git • GitHub • VS Code • Postman • Thunder Client  
-
-**AI/GenAI:** ChatGPT • Claude • Gemini • Ollama • Prompt Engineering
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java • Python • JS • SQL • C++ • PHP |
+| **Development** | React.js • Node.js • Express • HTML • CSS |
+| **Databases** | PostgreSQL • MongoDB • MySQL |
+| **Tools & AI** | Git • Postman • ChatGPT • Claude • Gemini • Ollama |
 
 ---
 
 ## 📂 Featured Projects
 
 - 🏦 **[ledgr-ai](https://github.com/krmilan/ledgr-ai)** — AI-powered financial ledgering system
-- 📄 Resume Builder
-- 👨‍💼 Recruiter Dashboard
 - ⚡ Full Stack MERN/PERN Applications
 - 🧠 DSA & Problem Solving Repository
-
+- 
 ---
 
 ## 📫 Connect With Me
@@ -52,6 +45,6 @@ Building scalable software, backend systems, and AI-powered applications.
 
 ---
 
-<p align="center">
+<p>
 ⚡ Consistency • Curiosity • Engineering Mindset
 </p>
