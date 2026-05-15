@@ -28,7 +28,7 @@ Building scalable software and AI-powered applications.
 
 ## 📫 Connect With Me
 
-📧 milanofficial09@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanray/) &nbsp;&nbsp;
+📧 milanofficial09@gmail.com
 
 <p>
 ⚡ Consistency • Curiosity • Engineering Mindset
