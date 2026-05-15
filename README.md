@@ -6,16 +6,12 @@
 Building scalable software and AI-powered applications.
 </p>
 
----
-
 ## 🚀 About Me
 
 - 💻 Aspiring Full Stack & AI Engineer
 - 🧠 Exploring Python, APIs, Automation & Intelligent Systems
 - ⚡ Focused on scalable applications & real-world problem solving
 - 🎯 Goal: Build production-grade software and AI-powered systems
-
----
 
 ## 🛠 Tech Stack
 
@@ -26,14 +22,11 @@ Building scalable software and AI-powered applications.
 | **Backend & Cloud** | PostgreSQL • MongoDB • MySQL • Supabase • GitHub Actions • Vercel • Render |
 | **Tools & AI** | Git • Postman • CI/CD Basics • ChatGPT • Claude • Gemini • Ollama |
 
----
-
 ## 📂 Featured Projects
 
 - 🏦 **[ledgr-ai](https://github.com/krmilan/ledgr-ai)** — AI-powered financial ledgering system
 - ⚡ Full Stack MERN/PERN Applications
 - 🧠 DSA & Problem Solving Repository
----
 
 ## 📫 Connect With Me
 
