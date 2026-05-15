@@ -24,8 +24,8 @@ Building scalable software, backend systems, and AI-powered applications.
 | :--- | :--- |
 | **Languages** | Java • Python • JS • SQL • C++ • PHP |
 | **Development** | React.js • Node.js • Express • HTML • CSS |
-| **Databases** | PostgreSQL • MongoDB • MySQL |
-| **Tools & AI** | Git • Postman • ChatGPT • Claude • Gemini • Ollama |
+| **Backend & Cloud** | PostgreSQL • MongoDB • MySQL • Supabase • GitHub Actions • Vercel • Render |
+| **Tools & AI** | Git • Postman • CI/CD Basics • ChatGPT • Claude • Gemini • Ollama |
 
 ---
 
