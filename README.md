@@ -25,14 +25,11 @@ Building scalable software and AI-powered applications.
 ## 📂 Featured Projects
 
 - 🏦 **[ledgr-ai](https://github.com/krmilan/ledgr-ai)** — AI-powered financial ledgering system
-- ⚡ Full Stack MERN/PERN Applications
-- 🧠 DSA & Problem Solving Repository
 
 ## 📫 Connect With Me
 
-📧 milanofficial09@gmail.com
+📧 milanofficial09@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanray/)
 
----
 <p>
 ⚡ Consistency • Curiosity • Engineering Mindset
 </p>
