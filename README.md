@@ -26,6 +26,9 @@ Building scalable software and AI-powered applications.
 
 - 🏦 **[ledgr-ai](https://github.com/krmilan/ledgr-ai)** — AI-powered financial ledgering system
 
+## 📄 Resume
+🔗[View my Resume](https://github.com/krmilan/krmilan/blob/main/Milan_Ray_Resume.pdf).
+
 ## 📫 Connect With Me
 
 📧 milanofficial09@gmail.com
